@@ -1,1 +1,3 @@
 Виды нейросетей: https://iis.guu.ru/blog/vidy-neironnih-setey/
+
+Про структуру нейросети научно: https://dzen.ru/a/YJEb_LjzSwTSt25w?ysclid=m0t78ar8ge729132517 (вставить в проект)
