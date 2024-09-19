@@ -7,3 +7,4 @@
 Нейросети в обучении: https://edutoria.ru/blog/post/iskusstvennyy-intellekt-v-obrazovanii-kak-ispolzovat-varianty-primeneniya?ysclid=m16rsz7ody879116773  
                       https://www.gazeta.ru/social/2023/02/01/16181311.shtml 
 
+Объяснение некоторых вещей в нейросетях: https://chat-gpt.org
